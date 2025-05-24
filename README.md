@@ -76,7 +76,6 @@ Me chamo Luiz Felipe Teixeira Silva, tenho 20 anos e sou natural de Minas Gerais
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
@@ -84,7 +83,7 @@ Me chamo Luiz Felipe Teixeira Silva, tenho 20 anos e sou natural de Minas Gerais
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LuizFelipe2801&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -92,7 +91,7 @@ Me chamo Luiz Felipe Teixeira Silva, tenho 20 anos e sou natural de Minas Gerais
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe2801&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
